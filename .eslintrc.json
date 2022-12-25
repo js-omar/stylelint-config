@@ -1,0 +1,21 @@
+{
+  "root": true,
+  "overrides": [
+    {
+      "files": ["*.*"],
+      "extends": ["@js-omar/eslint-config/.eslintrc.base.js"]
+    },
+    {
+      "files": ["*.ts", "*.js"],
+      "extends": ["@js-omar/eslint-config/.eslintrc.javascript.js"]
+    },
+    {
+      "files": ["*.ts"],
+      "extends": ["@js-omar/eslint-config/.eslintrc.typescript.js"]
+    },
+    {
+      "files": ["*.json"],
+      "extends": ["@js-omar/eslint-config/.eslintrc.json.js"]
+    }
+  ]
+}

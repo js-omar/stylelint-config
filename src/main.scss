@@ -1,0 +1,12 @@
+.insert {
+  display: block;
+}
+
+.alter::after {
+  color: rgb(255 255 255);
+  content: 'example';
+}
+
+.delete {
+  display: block;
+}
