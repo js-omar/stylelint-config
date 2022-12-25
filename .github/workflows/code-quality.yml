@@ -94,7 +94,7 @@ jobs:
           cache: 'npm'
 
       # Install Dependencies
-      - name: Install dependencies # cspell:ignore postcss
+      - name: Install dependencies
         run: |
           npm ci
 
