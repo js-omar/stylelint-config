@@ -1,7 +1,7 @@
 {
   "name": "@js-omar/stylelint-config",
   "displayName": "Stylelint configurations",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shared stylelint config",
   "keywords": [
     "stylelint"
