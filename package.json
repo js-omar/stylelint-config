@@ -38,6 +38,8 @@
     "@js-omar/prettier-config": "^1.0.3"
   },
   "peerDependencies": {
+    "postcss": "latest",
+    "postcss-scss": "latest",
     "stylelint": "latest",
     "stylelint-config-idiomatic-order": "latest",
     "stylelint-config-prettier": "latest",
