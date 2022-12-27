@@ -1,3 +1,9 @@
+## [1.0.2](https://github.com/js-omar/stylelint-config/compare/v1.0.1...v1.0.2) (2022-12-26)
+
+### Bug Fixes
+
+- install missing packages ([238b8cb](https://github.com/js-omar/stylelint-config/commit/238b8cb68c8aa3104259ae6f8320e97d81075e6a))
+
 ## [1.0.1](https://github.com/js-omar/stylelint-config/compare/v1.0.0...v1.0.1) (2022-12-25)
 
 ### Bug Fixes
