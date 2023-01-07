@@ -1,3 +1,9 @@
+# [1.1.0](https://github.com/js-omar/stylelint-config/compare/v1.0.2...v1.1.0) (2023-01-07)
+
+### Features
+
+- update some rules ([dbc65e8](https://github.com/js-omar/stylelint-config/commit/dbc65e89e7b31cf74aa55ffa288e2bf73a8393eb))
+
 ## [1.0.2](https://github.com/js-omar/stylelint-config/compare/v1.0.1...v1.0.2) (2022-12-26)
 
 ### Bug Fixes
