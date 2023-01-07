@@ -10,12 +10,13 @@ module.exports = {
   ],
   rules: {
     'order/properties-alphabetical-order': null,
-    'selector-class-pattern': '^[-a-z0-9]+$',
+    'selector-class-pattern': null,
     'string-quotes': 'single',
     'at-rule-no-unknown': null,
     'scss/at-rule-no-unknown': [true, { ignoreAtRules: ['tailwind'] }],
-    'max-nesting-depth': 2,
     'selector-max-id': 2,
     'selector-no-qualifying-type': null,
+    'selector-max-compound-selectors': 4,
+    'max-nesting-depth': 3,
   },
 };
