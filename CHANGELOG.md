@@ -1,3 +1,9 @@
+## [1.1.1](https://github.com/js-omar/stylelint-config/compare/v1.1.0...v1.1.1) (2023-03-06)
+
+### Bug Fixes
+
+- set specific package version in peer deps ([673498f](https://github.com/js-omar/stylelint-config/commit/673498f2abcfdccbbd5a1dec49651a6dd4a9bdfd))
+
 # [1.1.0](https://github.com/js-omar/stylelint-config/compare/v1.0.2...v1.1.0) (2023-01-07)
 
 ### Features
