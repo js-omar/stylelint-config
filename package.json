@@ -34,32 +34,29 @@
   },
   "prettier": "@js-omar/prettier-config",
   "devDependencies": {
-    "@js-omar/eslint-config": "^1.12.1",
-    "@js-omar/prettier-config": "^1.0.3",
-    "stylelint": "14.16.1",
-    "stylelint-config-idiomatic-order": "^9.0.0",
-    "stylelint-config-prettier": "^9.0.5",
-    "stylelint-config-prettier-scss": "^0.0.1",
-    "stylelint-config-sass-guidelines": "^9.0.1",
-    "stylelint-config-standard": "29.0.0",
-    "stylelint-config-standard-scss": "6.1.0",
-    "stylelint-prettier": "^3.0.0"
+    "@js-omar/eslint-config": "^1.19.0",
+    "stylelint": "16.2.1",
+    "stylelint-config-idiomatic-order": "^10.0.0",
+    "stylelint-config-prettier-scss": "^1.0.0",
+    "stylelint-config-sass-guidelines": "^11.0.0",
+    "stylelint-config-standard": "36.0.0",
+    "stylelint-config-standard-scss": "13.0.0",
+    "stylelint-prettier": "^5.0.0"
   },
   "peerDependencies": {
     "postcss": "latest",
     "postcss-scss": "latest",
-    "stylelint": "14.16.1",
-    "stylelint-config-idiomatic-order": "^9.0.0",
-    "stylelint-config-prettier": "^9.0.5",
-    "stylelint-config-prettier-scss": "^0.0.1",
-    "stylelint-config-sass-guidelines": "^9.0.1",
-    "stylelint-config-standard": "29.0.0",
-    "stylelint-config-standard-scss": "6.1.0",
-    "stylelint-prettier": "^3.0.0"
+    "stylelint": "16.2.1",
+    "stylelint-config-idiomatic-order": "^10.0.0",
+    "stylelint-config-prettier-scss": "^1.0.0",
+    "stylelint-config-sass-guidelines": "^11.0.0",
+    "stylelint-config-standard": "36.0.0",
+    "stylelint-config-standard-scss": "13.0.0",
+    "stylelint-prettier": "^5.0.0"
   },
   "engines": {
-    "node": "18.10.0",
-    "npm": ">=7"
+    "node": "*",
+    "npm": "*"
   },
   "publishConfig": {
     "access": "public"
