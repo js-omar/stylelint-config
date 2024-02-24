@@ -1,3 +1,13 @@
+# [1.2.0](https://github.com/js-omar/stylelint-config/compare/v1.1.1...v1.2.0) (2024-02-24)
+
+### Bug Fixes
+
+- remove useless rule ([d24c766](https://github.com/js-omar/stylelint-config/commit/d24c7665862a2dc8e6c1683dd8dd585acf91bf74))
+
+### Features
+
+- update stylelint packages ([1066dde](https://github.com/js-omar/stylelint-config/commit/1066ddea7246ce57d45d48b5c88055908d392a68))
+
 ## [1.1.1](https://github.com/js-omar/stylelint-config/compare/v1.1.0...v1.1.1) (2023-03-06)
 
 ### Bug Fixes
