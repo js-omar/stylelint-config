@@ -10,7 +10,6 @@ module.exports = {
   rules: {
     'order/properties-alphabetical-order': null,
     'selector-class-pattern': null,
-    'string-quotes': 'single',
     'at-rule-no-unknown': null,
     'scss/at-rule-no-unknown': [true, { ignoreAtRules: ['tailwind'] }],
     'selector-max-id': 2,
